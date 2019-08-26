@@ -12,5 +12,5 @@ Create a legend that will provide context for your map data.
 
 Visualization  looks something like the map below.
 
-
-https://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/UCSDSAN201904DATA2/raw/master/02-Homework/17-Mapping-Web/Instructions/Images/5-Advanced.png
+<img src="https://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/UCSDSAN201904DATA2/raw/master/02-Homework/17-Mapping-Web/Instructions/Images/5-Advanced.png
+" alt="Smap" height="42" width="42">
