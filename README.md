@@ -12,4 +12,4 @@ Create a legend that will provide context for your map data.
 
 Visualization  looks something like the map below.
 
-<img src="https://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/UCSDSAN201904DATA2/raw/master/02-Homework/17-Mapping-Web/Instructions/Images/5-Advanced.png" alt="map" height="42" width="42">
+<img src="/shaunclarke2333/Visualizing-Data-with-Leaflet/blob/master/Images/2-BasicMap.png" alt="map" height="42" width="42">
