@@ -10,4 +10,7 @@ Include popups that provide additional information about the earthquake when a m
 
 Create a legend that will provide context for your map data.
 
-Visualization should look something like the map above.
+Visualization  looks something like the map below.
+
+
+https://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/UCSDSAN201904DATA2/raw/master/02-Homework/17-Mapping-Web/Instructions/Images/5-Advanced.png
